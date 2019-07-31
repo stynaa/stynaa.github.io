@@ -1,0 +1,97 @@
+date	outcome	animal	volume
+01/2015	Adoption	DOGS	12
+01/2015	Euthanasia	CATS	6
+01/2015	Return to Owner	DOGS	112
+01/2015	Return to Owner	CATS	15
+01/2015	Other	DOGS	6
+01/2015	Euthanasia	DOGS	3
+01/2015	Other	CATS	6
+01/2015	Adoption	CATS	25
+02/2015	Other	CATS	2
+02/2015	Adoption	DOGS	7
+02/2015	Return to Owner	DOGS	115
+02/2015	Other	DOGS	12
+02/2015	Return to Owner	CATS	17
+02/2015	Adoption	CATS	22
+02/2015	Euthanasia	DOGS	3
+02/2015	Euthanasia	CATS	5
+03/2015	Euthanasia	DOGS	3
+03/2015	Euthanasia	CATS	7
+03/2015	Adoption	CATS	11
+03/2015	Adoption	DOGS	11
+03/2015	Return to Owner	CATS	23
+03/2015	Return to Owner	DOGS	193
+03/2015	Other	CATS	5
+03/2015	Other	DOGS	7
+04/2015	Euthanasia	CATS	8
+04/2015	Other	CATS	7
+04/2015	Other	DOGS	8
+04/2015	Return to Owner	DOGS	200
+04/2015	Return to Owner	CATS	38
+04/2015	Adoption	DOGS	17
+04/2015	Adoption	CATS	11
+04/2015	Euthanasia	DOGS	8
+05/2015	Return to Owner	DOGS	172
+05/2015	Other	CATS	5
+05/2015	Euthanasia	DOGS	8
+05/2015	Adoption	DOGS	10
+05/2015	Other	DOGS	9
+05/2015	Adoption	CATS	25
+05/2015	Return to Owner	CATS	61
+05/2015	Euthanasia	CATS	10
+06/2015	Other	DOGS	8
+06/2015	Return to Owner	CATS	56
+06/2015	Euthanasia	DOGS	6
+06/2015	Return to Owner	DOGS	266
+06/2015	Adoption	DOGS	17
+06/2015	Other	CATS	8
+06/2015	Adoption	CATS	25
+06/2015	Euthanasia	CATS	12
+07/2015	Other	DOGS	8
+07/2015	Return to Owner	DOGS	278
+07/2015	Euthanasia	CATS	9
+07/2015	Euthanasia	DOGS	2
+07/2015	Return to Owner	CATS	55
+07/2015	Other	CATS	7
+07/2015	Adoption	DOGS	14
+07/2015	Adoption	CATS	25
+08/2015	Other	CATS	8
+08/2015	Other	DOGS	2
+08/2015	Euthanasia	CATS	11
+08/2015	Euthanasia	DOGS	7
+08/2015	Adoption	CATS	20
+08/2015	Return to Owner	CATS	54
+08/2015	Adoption	DOGS	20
+08/2015	Return to Owner	DOGS	248
+09/2015	Return to Owner	DOGS	182
+09/2015	Adoption	CATS	23
+09/2015	Other	DOGS	1
+09/2015	Other	CATS	17
+09/2015	Adoption	DOGS	15
+09/2015	Euthanasia	DOGS	6
+09/2015	Return to Owner	CATS	61
+09/2015	Euthanasia	CATS	10
+10/2015	Adoption	DOGS	6
+10/2015	Other	DOGS	6
+10/2015	Return to Owner	DOGS	181
+10/2015	Adoption	CATS	19
+10/2015	Euthanasia	CATS	4
+10/2015	Return to Owner	CATS	38
+10/2015	Other	CATS	7
+10/2015	Euthanasia	DOGS	4
+11/2015	Adoption	CATS	16
+11/2015	Return to Owner	CATS	28
+11/2015	Other	CATS	9
+11/2015	Return to Owner	DOGS	119
+11/2015	Adoption	DOGS	9
+11/2015	Euthanasia	CATS	4
+11/2015	Other	DOGS	3
+11/2015	Euthanasia	DOGS	7
+12/2015	Return to Owner	DOGS	95
+12/2015	Other	CATS	7
+12/2015	Other	DOGS	5
+12/2015	Euthanasia	CATS	4
+12/2015	Adoption	DOGS	11
+12/2015	Euthanasia	DOGS	7
+12/2015	Return to Owner	CATS	16
+12/2015	Adoption	CATS	14

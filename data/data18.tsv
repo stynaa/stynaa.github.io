@@ -1,0 +1,81 @@
+date	outcome	animal	volume
+01/2018	Other	CATS	5
+01/2018	Adoption	DOGS	8
+01/2018	Euthanasia	DOGS	5
+01/2018	Euthanasia	CATS	4
+01/2018	Other	DOGS	5
+01/2018	Adoption	CATS	14
+01/2018	Return to Owner	DOGS	69
+01/2018	Return to Owner	CATS	10
+02/2018	Adoption	CATS	28
+02/2018	Other	CATS	18
+02/2018	Euthanasia	DOGS	9
+02/2018	Return to Owner	CATS	11
+02/2018	Adoption	DOGS	11
+02/2018	Return to Owner	DOGS	55
+02/2018	Other	DOGS	5
+02/2018	Euthanasia	CATS	17
+03/2018	Return to Owner	DOGS	102
+03/2018	Euthanasia	DOGS	8
+03/2018	Adoption	DOGS	14
+03/2018	Other	CATS	13
+03/2018	Euthanasia	CATS	10
+03/2018	Adoption	CATS	42
+03/2018	Return to Owner	CATS	18
+03/2018	Other	DOGS	5
+04/2018	Euthanasia	CATS	8
+04/2018	Other	DOGS	13
+04/2018	Return to Owner	DOGS	144
+04/2018	Adoption	DOGS	10
+04/2018	Euthanasia	DOGS	3
+04/2018	Other	CATS	39
+04/2018	Return to Owner	CATS	31
+04/2018	Adoption	CATS	35
+05/2018	Adoption	CATS	52
+05/2018	Euthanasia	CATS	14
+05/2018	Other	CATS	28
+05/2018	Adoption	DOGS	12
+05/2018	Euthanasia	DOGS	8
+05/2018	Other	DOGS	28
+05/2018	Return to Owner	DOGS	151
+05/2018	Return to Owner	CATS	65
+06/2018	Euthanasia	CATS	27
+06/2018	Other	DOGS	7
+06/2018	Other	CATS	22
+06/2018	Euthanasia	DOGS	6
+06/2018	Return to Owner	DOGS	174
+06/2018	Adoption	DOGS	14
+06/2018	Return to Owner	CATS	77
+06/2018	Adoption	CATS	83
+07/2018	Adoption	CATS	94
+07/2018	Euthanasia	CATS	30
+07/2018	Other	CATS	37
+07/2018	Return to Owner	CATS	79
+07/2018	Euthanasia	DOGS	4
+07/2018	Other	DOGS	6
+07/2018	Return to Owner	DOGS	189
+07/2018	Adoption	DOGS	11
+08/2018	Other	CATS	28
+08/2018	Return to Owner	CATS	105
+08/2018	Adoption	CATS	103
+08/2018	Euthanasia	DOGS	11
+08/2018	Return to Owner	DOGS	167
+08/2018	Adoption	DOGS	11
+08/2018	Euthanasia	CATS	22
+08/2018	Other	DOGS	7
+09/2018	Adoption	DOGS	4
+09/2018	Other	DOGS	8
+09/2018	Adoption	CATS	96
+09/2018	Euthanasia	CATS	32
+09/2018	Return to Owner	DOGS	131
+09/2018	Other	CATS	52
+09/2018	Return to Owner	CATS	82
+09/2018	Euthanasia	DOGS	5
+10/2018	Other	CATS	34
+10/2018	Euthanasia	DOGS	8
+10/2018	Adoption	CATS	69
+10/2018	Euthanasia	CATS	19
+10/2018	Return to Owner	DOGS	124
+10/2018	Adoption	DOGS	10
+10/2018	Other	DOGS	12
+10/2018	Return to Owner	CATS	60
