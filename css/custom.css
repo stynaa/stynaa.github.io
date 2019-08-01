@@ -5,10 +5,21 @@ h1, h2, .heading-with-icon, h3, h4 {
     font-family: 'Merriweather', serif;
     color: #000000;
   }
+
+h1.home-title, h5.home-title {
+  color: #ffffff;
+}
+
 .blog-category {
     padding: 10px 0px;
     height: 500px;
     line-height:50px
+}
+.blog-category-inner {
+  max-height: 350px;
+}
+.basic-banner {
+  height: 400px;
 }
 
 /* For portfolio */
@@ -138,12 +149,4 @@ ol.type li a:hover {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
-}
-
-.blog-category-inner {
-  max-height: 350px;
-}
-
-.basic-banner {
-  height: 400px;
 }
