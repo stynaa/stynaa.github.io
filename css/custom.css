@@ -6,10 +6,24 @@ h1, h2, .heading-with-icon, h3, h4 {
     color: #000000;
   }
 
+/* For home */
 h1.home-title, h5.home-title {
   color: #ffffff;
 }
+p.home-about {
+  font-size: 15px;
+}
+.about-section {
+  padding: 20px 0px;
+}
+.helper {
+  display: inline-block;
+  height: 60px;
+  vertical-align: middle;
+  background: blue
+}
 
+/* For blog */
 .blog-category {
     padding: 10px 0px;
     height: 500px;
