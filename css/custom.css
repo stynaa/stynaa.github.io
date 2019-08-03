@@ -5,6 +5,9 @@ h1, h2, .heading-with-icon, h3, h4 {
     font-family: 'Merriweather', serif;
     color: #000000;
   }
+img.header-icon {
+  height: 40px;
+}
 
 /* For home */
 h1.home-title, h5.home-title {
@@ -20,7 +23,6 @@ p.home-about {
   display: inline-block;
   height: 60px;
   vertical-align: middle;
-  background: blue
 }
 
 /* For blog */
@@ -164,3 +166,5 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
+
+/* For contacts */
